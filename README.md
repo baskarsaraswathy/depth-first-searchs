@@ -113,6 +113,10 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 
+<H3>OUTPUT</H3>
+<img width="177" height="96" alt="image" src="https://github.com/user-attachments/assets/d30410a2-db7d-4457-8a01-48b3ef16b58c" />
+
+
 <hr>
 <h3>Result:</h3>
 <hr>
